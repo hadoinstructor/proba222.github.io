@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages2
 
 You can use the [editor on GitHub](https://github.com/hadoinstructor/proba222.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
